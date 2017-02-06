@@ -1,7 +1,7 @@
 body {
-	font-family: sans-serif, arial, "Times New Roman";
-	background-color: #338DB9;
-	color: #0C232E;
+	font-family: time,arial,sans-serif;
+	background-color: blue;
+	color: #ffffff;
 }
 
 img.person {
@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: #2578A0;
+	background-color: red;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
